@@ -1,0 +1,113 @@
+body {
+  height: 3000px;
+}
+/* NAVBAR */
+.navbar-brand {
+  font-family: "Rosarivo", serif;
+  color: #e19f01;
+}
+
+.button-icon {
+  background-color: #a7cdbb;
+  width: 48px;
+  height: 48px;
+  border-radius: 100px;
+}
+
+.button-search {
+  background-color: #a7cdbb;
+  width: 48px;
+  height: 48px;
+  border-radius: 100px;
+  margin-right: 12px;
+}
+
+.icon {
+  margin-left: 13px;
+  margin-top: 10px;
+}
+
+.nav-link {
+  color: #a7cdbb;
+  font-family: "Red Hat Text", sans-serif;
+}
+
+/* END NAVBAR */
+
+/* KATEGORI PRODUK */
+h3 {
+  font-family: "Ribeye Marrow", cursive;
+  color: #e19f01;
+}
+
+.card-img {
+  background-color: #a7cdbb;
+  border-radius: 38px;
+}
+/* END KATEGORI PRODUK */
+/* PRODUK TERBARU */
+
+a {
+  font-family: "Red Hat Text", sans-serif;
+  text-decoration: none;
+  color: #7b5304;
+}
+
+.card h4 {
+  font-family: "Red Hat Text", sans-serif;
+}
+.card span {
+  font-weight: italic;
+}
+
+.button-secondary {
+  background-color: #a7cdbb;
+  height: 35px;
+  width: 35px;
+  border-radius: 100%;
+}
+/* END PRODUK TERBARU */
+
+/* NYOBA */
+.background-produk {
+  background-color: #a7cdbb;
+  border-radius: 30px;
+  width: auto;
+  height: 210px;
+}
+
+.kategori {
+  font-family: "Red Hat Text", sans-serif;
+  color: #7b5304;
+}
+
+.img-thumbnail {
+  padding: 30px;
+}
+
+.gradien {
+  background-image: linear-gradient(rgb(159, 200, 180), white);
+}
+
+/* END NYOBA */
+/* keranjang */
+.text-keranjang {
+  margin-top: 10px;
+}
+
+.poto {
+  border-radius: 22px;
+}
+
+.btn-success {
+  height: 65px;
+  margin-right: 20px;
+}
+
+h5 {
+  color: white;
+}
+
+td {
+  font-family: "Red Hat Text", sans-serif;
+}

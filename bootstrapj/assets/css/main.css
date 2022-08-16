@@ -1,0 +1,172 @@
+.title {
+  font-family: "Ribeye Marrow", cursive;
+}
+
+.nav-item a {
+  color: #a3ccba;
+}
+.nav-item a:hover {
+  color: rgb(0, 255, 157);
+}
+.card-img-overlay a:hover {
+  color: #c4a6a6;
+}
+
+.card-body a {
+  color: #000;
+}
+
+.card-body a:hover {
+  color: #a3ccba;
+}
+
+.btn-success {
+  background-color: #a3ccba;
+  border: none;
+}
+
+.navbar-brand {
+  color: #a3ccba;
+}
+.nav-link {
+  color: #a3ccba;
+}
+
+h3 {
+  font-family: "Ribeye Marrow", cursive;
+  color: #e19f01;
+}
+
+.kategori-produk {
+  text-decoration: none;
+  color: #7b5304;
+  font-family: "Red Hat Text", sans-serif;
+}
+
+.ulasan {
+  color: #a3ccba;
+}
+
+.ulasan a:hover {
+  color: #e19f01;
+}
+.card {
+  background-image: linear-gradient(rgb(159, 200, 180), white);
+  border-radius: 30px;
+}
+.img-thumbnail {
+  padding: 23px;
+}
+
+h5 {
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.kuantitas {
+  width: 100px;
+}
+
+.border-success {
+  background-color: #a3ccba;
+  height: 42px;
+  width: 667px;
+ ;
+}
+
+.diskon {
+  margin-right: 45px;
+}
+
+.radio {
+  display: inline-flex;
+  align-items: center;
+}
+
+.kurir {
+  display: inline-flex;
+  align-items: center;
+}
+
+.resi {
+  display: inline-flex;
+}
+
+.card-resi {
+  display: inline-flex;
+  align-items: center;
+}
+
+.text-pesanan {
+  letter-spacing: 2px;
+}
+
+.text-login {
+  color: #white;
+  font-family: "Rosarivo", serif;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+.text-header-login {
+  font-family: "Eagle Lake", cursive;
+}
+
+.text-navbar-beranda {
+  font-family: "Red Hat Text", sans-serif;
+  font-weight: 700;
+  color: #a3ccba ;
+}
+
+.text-produk-barang {
+  font-family: "Red Hat Text", sans-serif;
+  font-weight: 700;
+}
+
+.text-ulasan-top {
+  font-family: "Rosarivo", serif;
+}
+
+.text-deskripsi {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 1px;
+}
+
+.text-pembayaran{
+  font-family: ;  "Montserrat", sans-serif;
+}
+
+.text-ekspedisi{
+  font-family: ;  "Montserrat", sans-serif;
+}
+
+.batas-produk{
+  margin-top: 100px;
+}
+
+.btn-success{
+  height: 45px;
+  width: 45px;
+}
+
+.icon-plus{
+  margin-top: 10px;
+}
+
+.icon-keranjang{
+  margin-left: -2px;
+}
+.icon-keranjang-beda{
+  margin-left: -2px;
+}
+
+.border-secondary{
+  background-color: #a3ccba;
+  height: 500px;
+  width: 500px;
+}
+
